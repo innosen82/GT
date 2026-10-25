@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html><head><title>My Trading App</title>
+<script src="https://cdn.tailwindcss.com"></script></head>
+<body class="bg-black text-white p-6">
+<h1 class="text-3xl font-bold">GT TRADING APP</h1>
+<div class="grid grid-cols-2 gap-4 mt-6">
+<div class="bg-zinc-900 p-4 rounded">BTC: $67,420 ▲ 2.3%</div>
+<div class="bg-zinc-900 p-4 rounded">ETH: $2,840 ▲ 1.1%</div>
+<div class="bg-zinc-900 p-4 rounded">Balance: $1,000</div>
+<div class="bg-zinc-900 p-4 rounded">Profit: +$124</div>
+</div>
+<button class="bg-green-500 w-full mt-6 py-3 rounded font-bold">BUY</button>
+<button class="bg-red-500 w-full mt-2 py-3 rounded font-bold">SELL</button>
+</body></html>
